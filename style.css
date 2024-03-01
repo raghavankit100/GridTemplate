@@ -58,6 +58,10 @@
     font-size: small;
     opacity: 0.7;
 }
+body{
+    height: 100%;
+    width: 100%;
+}
 .body{
     display: grid;
     height: 100%;
